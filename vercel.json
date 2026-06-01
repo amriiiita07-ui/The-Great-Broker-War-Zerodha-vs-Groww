@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/zerodha_groww_whitepaper_final.html" }
+  ]
+}
