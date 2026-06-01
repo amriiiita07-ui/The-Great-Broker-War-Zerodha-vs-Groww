@@ -1,16 +1,16 @@
-# 📊 The Great Broker War: Zerodha vs. Groww
-### *An Exhaustive Equity Research White Paper — FY2024 to FY2026*
+# The Great Broker War: Zerodha vs. Groww
+### *An Exhaustive Equity Research White Paper : FY2024 to FY2026*
 
 > **A forensic, data-driven analysis of India's two most consequential fintech platforms through a period of explosive growth, regulatory siege, and strategic reinvention.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://your-vercel-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://the-great-broker-war-zerodha-vs-gro.vercel.app/)
 [![Research Type](https://img.shields.io/badge/Type-Equity%20Research-1a3a5c?style=for-the-badge)](.)
 [![Coverage](https://img.shields.io/badge/Coverage-FY2024--FY2026-b5292a?style=for-the-badge)](.)
 [![Charts](https://img.shields.io/badge/Visualizations-14%20Charts-2e7d32?style=for-the-badge)](.)
 
 ---
 
-## 🗂️ Table of Contents
+## Table of Contents
 
 - [About This Paper](#-about-this-paper)
 - [Key Findings at a Glance](#-key-findings-at-a-glance)
@@ -28,21 +28,21 @@
 
 ---
 
-## 📖 About This Paper
+## About This Paper
 
 This white paper is a **deep-dive equity research document** examining the battle for dominance in India's retail investment ecosystem. It covers the period **FY2024 through FY2026** — arguably the most turbulent era in Indian discount broking history, defined by:
 
-- 🏆 **Groww** overtaking Zerodha in active users (September 2023) and building a 28% NSE market share
-- 📉 **Zerodha** posting its first-ever annual revenue decline (-11.2% in FY25) due to SEBI's F&O regulatory overhaul
-- 🏛️ **SEBI's derivatives crackdown** wiping out 40%+ of F&O volumes industry-wide
-- 🚀 **Groww's landmark IPO** (November 2025) at ₹100/share, listing at ₹114, implying ~₹62,000 Cr valuation
-- 💰 **Zerodha** confirming a net profit of ₹4,237 Cr in FY25 — still among India's most profitable private companies
+- **Groww** overtaking Zerodha in active users (September 2023) and building a 28% NSE market share
+- **Zerodha** posting its first-ever annual revenue decline (-11.2% in FY25) due to SEBI's F&O regulatory overhaul
+- **SEBI's derivatives crackdown** wiping out 40%+ of F&O volumes industry-wide
+- **Groww's landmark IPO** (November 2025) at ₹100/share, listing at ₹114, implying ~₹62,000 Cr valuation
+- **Zerodha** confirming a net profit of ₹4,237 Cr in FY25 — still among India's most profitable private companies
 
 The paper spans **8 research sections**, **14 interactive charts**, and synthesizes data from **15+ primary and secondary sources**.
 
 ---
 
-## 🔍 Key Findings at a Glance
+## Key Findings at a Glance
 
 | Finding | Zerodha | Groww |
 |---|---|---|
@@ -62,7 +62,7 @@ The paper spans **8 research sections**, **14 interactive charts**, and synthesi
 
 ---
 
-## 💰 Financial Snapshot
+## Financial Snapshot
 
 ### Revenue Trajectory (₹ Crore)
 
@@ -86,7 +86,7 @@ The paper spans **8 research sections**, **14 interactive charts**, and synthesi
 
 ---
 
-## 📈 Market Share Data
+## Market Share Data
 
 ### NSE Active Client Market Share (%)
 
@@ -112,7 +112,7 @@ The paper spans **8 research sections**, **14 interactive charts**, and synthesi
 
 ---
 
-## 🏛️ The SEBI Crackdown: Impact Summary
+## The SEBI Crackdown: Impact Summary
 
 The 2024–2025 regulatory cycle was the most consequential event in Indian discount broking history. SEBI's own study found **91% of retail F&O traders lost money over FY22–FY24**, with aggregate losses exceeding **₹1.8 lakh crore**.
 
@@ -142,7 +142,7 @@ The 2024–2025 regulatory cycle was the most consequential event in Indian disc
 
 ---
 
-## 🖥️ Platform & Product Comparison
+## Platform & Product Comparison
 
 ### Core Platform Benchmarks
 
@@ -182,7 +182,7 @@ The 2024–2025 regulatory cycle was the most consequential event in Indian disc
 
 ---
 
-## 🏆 Competitive Landscape
+## Competitive Landscape
 
 ### Four-Broker Benchmarking (FY25/26)
 
@@ -203,7 +203,7 @@ The 2024–2025 regulatory cycle was the most consequential event in Indian disc
 
 ---
 
-## ⚠️ Risk Matrix
+## Risk Matrix
 
 ### Zerodha — Structural Vulnerabilities
 
@@ -229,7 +229,7 @@ The 2024–2025 regulatory cycle was the most consequential event in Indian disc
 
 ---
 
-## 📐 Valuation & Projections
+## Valuation & Projections
 
 ### Groww IPO Metrics (November 2025)
 
@@ -265,7 +265,7 @@ The 2024–2025 regulatory cycle was the most consequential event in Indian disc
 
 ---
 
-## 📊 Visualizations Inside
+## Visualizations Inside
 
 The white paper contains **14 fully interactive charts** built with Chart.js 4.4.1 and custom SVG:
 
@@ -288,7 +288,7 @@ The white paper contains **14 fully interactive charts** built with Chart.js 4.4
 
 ---
 
-## 📚 Research Sources & References
+## Research Sources & References
 
 ### Primary Financial Data
 
@@ -340,7 +340,7 @@ The white paper contains **14 fully interactive charts** built with Chart.js 4.4
 
 ---
 
-## 🗃️ Paper Structure
+## Paper Structure
 
 ```
 zerodha_groww_whitepaper_final.html
@@ -404,7 +404,7 @@ zerodha_groww_whitepaper_final.html
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -442,7 +442,7 @@ Push to `main` and Vercel auto-deploys.
 
 ---
 
-## 📝 Description (for GitHub repo)
+## Description (for GitHub repo)
 
 > **Forensic equity research white paper comparing Zerodha and Groww — India's two dominant fintech platforms — across FY2024 to FY2026. Covers revenue data, SEBI's F&O regulatory crackdown impact, market share analysis, IPO valuation, ARPU benchmarking, risk matrices, and 3-year projections. Features 14 interactive Chart.js visualizations and custom SVG diagrams. Single-file HTML, zero dependencies, deployable on Vercel.**
 
@@ -451,7 +451,7 @@ Push to `main` and Vercel auto-deploys.
 
 ---
 
-## ⚖️ Disclaimer
+## Disclaimer
 
 This paper is prepared **for research and educational purposes only**. It does not constitute financial advice, investment recommendation, or solicitation to buy or sell any security. All financial data is sourced from publicly available filings, media reports, and analyst estimates. Zerodha financials (where marked estimated) have not been independently audited. Projections in Section 8 are scenario analyses, not forecasts.
 
