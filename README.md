@@ -9,22 +9,21 @@
 [![Charts](https://img.shields.io/badge/Visualizations-14%20Charts-2e7d32?style=for-the-badge)](.)
 
 ---
-
 ## Table of Contents
 
 - [About This Paper](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#about-this-paper)
-- [Key Findings at a Glance](#-key-findings-at-a-glance)
-- [Financial Snapshot](#-financial-snapshot)
-- [Market Share Data](#-market-share-data)
-- [The SEBI Crackdown: Impact Summary](#-the-sebi-crackdown-impact-summary)
-- [Platform & Product Comparison](#-platform-product-comparison)
-- [Competitive Landscape](#-competitive-landscape)
-- [Risk Matrix](#-risk-matrix)
-- [Valuation & Projections](#-valuation--projections)
-- [Visualizations Inside](#-visualizations-inside)
-- [Research Sources & References](#-research-sources--references)
-- [Paper Structure](#-paper-structure)
-- [Tech Stack](#-tech-stack)
+- [Key Findings at a Glance](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#key-findings-at-a-glance)
+- [Financial Snapshot](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#financial-snapshot)
+- [Market Share Data](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#market-share-data)
+- [The SEBI Crackdown: Impact Summary](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#the-sebi-crackdown-impact-summary)
+- [Platform & Product Comparison](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#platform-product-comparison)
+- [Competitive Landscape](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#competitive-landscape)
+- [Risk Matrix](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#risk-matrix)
+- [Valuation & Projections](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#valuation--projections)
+- [Visualizations Inside](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#visualizations-inside)
+- [Research Sources & References](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#research-sources--references)
+- [Paper Structure](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#paper-structure)
+- [Tech Stack](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#tech-stack)
 
 ---
 
