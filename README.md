@@ -17,7 +17,7 @@
 - [Financial Snapshot](#-financial-snapshot)
 - [Market Share Data](#-market-share-data)
 - [The SEBI Crackdown: Impact Summary](#-the-sebi-crackdown-impact-summary)
-- [Platform & Product Comparison](#-platform--product-comparison)
+- [Platform & Product Comparison](#-platform-product-comparison)
 - [Competitive Landscape](#-competitive-landscape)
 - [Risk Matrix](#-risk-matrix)
 - [Valuation & Projections](#-valuation--projections)
