@@ -31,13 +31,13 @@
 
 ## About This Paper
 
-This white paper is a **deep-dive equity research document** examining the battle for dominance in India's retail investment ecosystem. It covers the period **FY2024 through FY2026** — arguably the most turbulent era in Indian discount broking history, defined by:
+This white paper is a **deep-dive equity research document** examining the battle for dominance in India's retail investment ecosystem. It covers the period **FY2024 through FY2026** -arguably the most turbulent era in Indian discount broking history, defined by:
 
 - **Groww** overtaking Zerodha in active users (September 2023) and building a 28% NSE market share
 - **Zerodha** posting its first-ever annual revenue decline (-11.2% in FY25) due to SEBI's F&O regulatory overhaul
 - **SEBI's derivatives crackdown** wiping out 40%+ of F&O volumes industry-wide
 - **Groww's landmark IPO** (November 2025) at ₹100/share, listing at ₹114, implying ~₹62,000 Cr valuation
-- **Zerodha** confirming a net profit of ₹4,237 Cr in FY25 — still among India's most profitable private companies
+- **Zerodha** confirming a net profit of ₹4,237 Cr in FY25 - still among India's most profitable private companies
 
 The paper spans **8 research sections**, **14 interactive charts**, and synthesizes data from **15+ primary and secondary sources**.
 
@@ -75,7 +75,7 @@ The paper spans **8 research sections**, **14 interactive charts**, and synthesi
 | **FY25** | ₹8,868 Cr ✅ confirmed | ₹4,237 Cr ✅ confirmed | ₹3,902 Cr (RHP) | ₹1,824 Cr (RHP) |
 | **FY26E** | ~₹6,200 Cr (est.) | ~₹2,800 Cr (est.) | ~₹5,000 Cr (guidance) | ~₹2,200 Cr (est.) |
 
-> **Note:** Zerodha FY25 figures confirmed via Tracxn/BW Disrupt (November 2025). Groww FY25 figures from official RHP filing. FY24 Groww loss was due to a ₹1,339.68 Cr exceptional tax liability from US outbound merger — underlying operations were profitable.
+> **Note:** Zerodha FY25 figures confirmed via Tracxn/BW Disrupt (November 2025). Groww FY25 figures from official RHP filing. FY24 Groww loss was due to a ₹1,339.68 Cr exceptional tax liability from US outbound merger - underlying operations were profitable.
 
 ### Quarterly Groww Snapshots (Post-IPO)
 
