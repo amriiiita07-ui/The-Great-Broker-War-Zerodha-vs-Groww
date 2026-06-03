@@ -4,7 +4,7 @@
  
 > **A forensic, data-driven analysis of India's two most consequential fintech platforms through a period of explosive growth, regulatory siege, and strategic reinvention.**
  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://your-vercel-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://the-great-broker-war-zerodha-vs-gro.vercel.app/)
 [![Research Type](https://img.shields.io/badge/Type-Equity%20Research-1a3a5c?style=for-the-badge)](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#about-this-paper)
 [![Coverage](https://img.shields.io/badge/Coverage-FY2024--FY2026-b5292a?style=for-the-badge)](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#financial-snapshot)
 [![Charts](https://img.shields.io/badge/Visualizations-14%20Charts-2e7d32?style=for-the-badge)](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#visualizations-inside)
