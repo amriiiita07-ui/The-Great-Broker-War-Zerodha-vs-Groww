@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-- [About This Paper](#-about-this-paper)
+- [About This Paper](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#about-this-paper)
 - [Key Findings at a Glance](#-key-findings-at-a-glance)
 - [Financial Snapshot](#-financial-snapshot)
 - [Market Share Data](#-market-share-data)
