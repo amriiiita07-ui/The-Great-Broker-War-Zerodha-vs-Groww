@@ -9,7 +9,9 @@
 [![Research Type](https://img.shields.io/badge/Type-Equity%20Research-1a3a5c?style=for-the-badge)](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#about-this-paper)
 [![Coverage](https://img.shields.io/badge/Coverage-FY2024--FY2026-b5292a?style=for-the-badge)](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#financial-snapshot)
 [![Charts](https://img.shields.io/badge/Visualizations-14%20Charts-2e7d32?style=for-the-badge)](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#visualizations-inside)
- 
+
+<br/>
+
 ---
 
 ## Table of Contents
