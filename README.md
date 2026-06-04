@@ -1,4 +1,5 @@
-
+<div align="center">
+ 
 # 📊 The Great Broker War: Zerodha vs. Groww
 ### *An Exhaustive Equity Research White Paper: FY2024 to FY2026*
  
