@@ -13,7 +13,8 @@
 <br/>
 
 ---
-
+<div align="left">
+ 
 ## Table of Contents
 
 - [About This Paper](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#about-this-paper)
