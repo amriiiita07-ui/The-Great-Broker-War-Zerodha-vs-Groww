@@ -22,7 +22,7 @@
 - [Financial Snapshot](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#financial-snapshot)
 - [Market Share Data](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#market-share-data)
 - [The SEBI Crackdown: Impact Summary](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#the-sebi-crackdown-impact-summary)
-- [Platform & Product Comparison](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#platform-product-comparison)
+- [Platform and Product Comparison](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#platform-and-product-comparison)
 - [Competitive Landscape](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#competitive-landscape)
 - [Risk Matrix](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#risk-matrix)
 - [Valuation & Projections](https://github.com/amriiiita07-ui/The-great-broker-war-Zerodha-vs-groww#valuation--projections)
@@ -147,7 +147,7 @@ The 2024–2025 regulatory cycle was the most consequential event in Indian disc
 
 ---
 
-## Platform & Product Comparison
+## Platform and Product Comparison
 
 ### Core Platform Benchmarks
 
